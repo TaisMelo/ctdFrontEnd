@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital@1&family=Lora&display=swap');
+
+h1{font-family: 'Crimson Text', serif; font-size: 40px; background-color: #03172b; color: #daa520; padding: 15px; text-align: center;}
+
+body { background-color: #ff8c00;}
+
+.review-score{color: #0e4207; font-size: 20px; background-color: #dfee0c; font-weight: bold; padding: 12px;}
+
+.media-picture{background-image: url('../IMAGENS/The-Lion-King.jpg'); width: 1300px; ; height: 550px; background-repeat: no-repeat; background-position: center,center;}
+
+h2{color: #101080; font-family: 'Crimson Text', serif;} 
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital@1&family=Dosis:wght@300&family=Lora&family=Roboto:ital@1&display=swap');
+
+p{font-family: 'Roboto', sans-serif; font-size: 16px;}
+
+a{color: #072702; font-weight: bold;}

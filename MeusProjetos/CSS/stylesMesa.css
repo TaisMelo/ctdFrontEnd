@@ -1,0 +1,33 @@
+body {
+
+background-color: rgb(10, 10, 10);
+color: rgb(255, 255, 255);
+
+}
+
+h1 {
+
+color: rgb(216, 19, 216);
+
+}
+
+.job-title {
+
+    background-color: #ff14917c;
+    color: #78eaee;
+
+}
+
+#high {
+
+color: #fa8072;
+
+}
+
+ul{
+
+background-color: #40e0d0;
+color: #000000;
+
+}
+
